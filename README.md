@@ -1,6 +1,6 @@
 # Toma de Requerimientos Abogabot - Launch X
 
-## Descripción de la Solicitid
+## Descripción de la Solicitud
 
 ### Usuario Solicitante
 
@@ -19,16 +19,25 @@ A medida que avance el proceso legal el administrador comentara cada avance del 
 
 ### Diagrama de Desarrollo
 
-![Diagrama de flujo del desarrollo](images/Diagrama_de_desarrollo_Abogabot.svg)
+![Diagrama de flujo del desarrollo](Diagrama_de_desarrollo_Abogabot.svg)
 Ver [Diagrama de Desarrollo](https://lucid.app/documents/view/a26c1a7c-2b32-48ad-88c9-5cc041d3c4f0)
 
-### Buyer Persona
+## Buyer Persona
 
-![Buyer Persona Abogabot](images/Buyer_Persona_Abogabot.png)
+![Buyer Persona Abogabot](Buyer_Persona_Abogabot.png)
 Ver [Buyer Persona](https://acortar.link/1Myy2N)
 
 ## Publico Objetivo
 
-![Publico objetivo Abogabot 1](images/Publico_Ob_1.png)
-![Publico objetivo Abogabot 2](images/Publico_Ob_2.png)
+![Publico objetivo Abogabot 1](Publico_Ob_1.png)
+![Publico objetivo Abogabot 2](Publico_Ob_2.png)
 Ver [Publico Objetivo](https://acortar.link/CEYl4N)
+
+## Wireframe UX
+
+![Wireframe Experiencia de Usuario Abogabot](Wireframe_UX.png)
+Ver [Wireframe Ux](https://balsamiq.cloud/so1hiee/ptnr57k)
+
+## Wireframe UI
+
+Ver [Wireframe UI](https://www.figma.com/proto/3SG9DHsalxMbIZdNl4wKjP/Untitled?node-id=6%3A29&scaling=contain&page-id=0%3A1)

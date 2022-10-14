@@ -38,6 +38,7 @@ Ver [Publico Objetivo](https://acortar.link/CEYl4N)
 ## Wireframe UX
 
 ![Wireframe Experiencia de Usuario Abogabot](Wireframe_UX.png)
+
 Ver [Wireframe Ux](https://balsamiq.cloud/so1hiee/ptnr57k)
 
 ## Wireframe UI
